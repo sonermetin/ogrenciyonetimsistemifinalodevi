@@ -1,0 +1,14 @@
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\bin\Debug\net8.0\ogrenciyonsistemodev.exe
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\bin\Debug\net8.0\ogrenciyonsistemodev.deps.json
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\bin\Debug\net8.0\ogrenciyonsistemodev.runtimeconfig.json
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\bin\Debug\net8.0\ogrenciyonsistemodev.dll
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\bin\Debug\net8.0\ogrenciyonsistemodev.pdb
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\obj\Debug\net8.0\ogrenciyonsistemodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\obj\Debug\net8.0\ogrenciyonsistemodev.AssemblyInfoInputs.cache
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\obj\Debug\net8.0\ogrenciyonsistemodev.AssemblyInfo.cs
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\obj\Debug\net8.0\ogrenciyonsistemodev.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\obj\Debug\net8.0\ogrenciyonsistemodev.dll
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\obj\Debug\net8.0\refint\ogrenciyonsistemodev.dll
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\obj\Debug\net8.0\ogrenciyonsistemodev.pdb
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\obj\Debug\net8.0\ogrenciyonsistemodev.genruntimeconfig.cache
+C:\Users\Kullanıcı\source\repos\ogrenciyonsistemodev\ogrenciyonsistemodev\obj\Debug\net8.0\ref\ogrenciyonsistemodev.dll

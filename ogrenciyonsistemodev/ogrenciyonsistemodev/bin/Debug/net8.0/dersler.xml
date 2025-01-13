@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ders>
+    <DersAdi>GÖRSEL PROGRAMLAMA</DersAdi>
+    <Kredi>3</Kredi>
+    <OgretimGorevlisi>
+      <Ad>EMRAH </Ad>
+      <Soyad>SARIÇİÇEK</Soyad>
+      <Departman>BİLGİSAYAR PROGRAMCILIĞI</Departman>
+    </OgretimGorevlisi>
+    <Ogrenciler />
+  </Ders>
+</ArrayOfDers>
